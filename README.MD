@@ -1,1 +1,1 @@
-This is my first real portfolio project.
+This is my first real portfolio project. A resizeable Etch-A-Sketch with optional colors (WIP).
